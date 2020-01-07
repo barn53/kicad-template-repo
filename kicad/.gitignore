@@ -27,6 +27,11 @@ fp-info-cache
 *.dsn
 *.ses
 
+# Exported Fabrication files
+*.gbr
+*.drl
+*.zip
+
 # Exported BOM files
 *.xml
 *.csv
